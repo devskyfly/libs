@@ -1,0 +1,22 @@
+{
+	"name" : "devskyfly/libs",
+	"type" : "library",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Ivan",
+			"email" : "devskyfly@gmail.com"
+		}
+	],
+	"minimum-stability" : "dev",
+	"require-dev" : {
+		"codeception/codeception" : "2.5.x-dev"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"devskyfly\\libs\\" : "src"
+		}
+	},
+	"require": {
+		"devskyfly/php56": "dev-dev"
+	}
+}
