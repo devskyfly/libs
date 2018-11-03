@@ -31,7 +31,10 @@ class Date extends Month
             'day'=>(int)$result['day'],
             'zero_day'=>$day,
             'month'=>$result['month'],
-            'str_month'=>self::getMonthName($date,$pad)
+            'str_month'=>self::getMonthName($date,$pad),
+            'hour'=>$result['hour'],
+            'minute'=>$result['minute'],
+            'second'=>$result['second']
         ];
     }
 }
