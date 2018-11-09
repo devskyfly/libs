@@ -7,9 +7,8 @@
 			"email" : "devskyfly@gmail.com"
 		}
 	],
-	"minimum-stability" : "dev",
 	"require-dev" : {
-		"codeception/codeception" : "2.5.x-dev"
+		"codeception/codeception" : "^2.0.0"
 	},
 	"autoload" : {
 		"psr-4" : {
