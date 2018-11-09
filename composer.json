@@ -16,7 +16,7 @@
 			"devskyfly\\libs\\" : "src"
 		}
 	},
-	"require": {
-		"devskyfly/php56": "dev-dev"
+	"require" : {
+		"devskyfly/php56" : "0.0.*"
 	}
 }
