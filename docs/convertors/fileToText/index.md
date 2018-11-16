@@ -1,4 +1,4 @@
-** Convertors\fileToText
+##Convertors\fileToText
 
 Эта библиотека поддерживает конвертацию файлов следующих форматов:
 
