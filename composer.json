@@ -16,6 +16,6 @@
 		}
 	},
 	"require" : {
-		"devskyfly/php56" : "0.0.*"
+		"devskyfly/php56" : ">0.0.1"
 	}
 }
